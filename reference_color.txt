@@ -1,0 +1,6 @@
+Bocchi:
+
+- Body (pink): #ebb8c1
+- Cube hair tie (blue): #6386a6
+- Cube hair tie (yellow): #e9a616
+
